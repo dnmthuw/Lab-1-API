@@ -1,6 +1,6 @@
 import requests
 
-BASE_URL = "http://hvnhv-35-230-91-10.run.pinggy-free.link"
+BASE_URL = "http://mcfaw-34-125-155-180.run.pinggy-free.link"
 
 PREDICT_URL = f"{BASE_URL}/predict"
 
