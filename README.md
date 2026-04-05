@@ -1,13 +1,10 @@
 # LAB 1 - API
 #  Question Answering API
----
 
 ## 1. Thông tin sinh viên
 - **Họ tên:** *Dương Ngọc Minh Thư*
 - **MSSV:** 24120144
 - **Mã lớp:** 24CTT5
-
----
 
 ## 2. Mô hình sử dụng
 - **Tên mô hình:** `distilbert-base-cased-distilled-squad`
@@ -70,7 +67,7 @@ Copy link được sinh ra (ví dụ: `http://oxlng-xxx.run.pinggy-free.link`) v
 python test_api.py
 ```
 
-## Ví dụ gọi API
+## 6. Ví dụ gọi API
 
 ### GET /
 ```bash
@@ -101,4 +98,5 @@ Response:
 {"question": "What is the capital of Vietnam?", "answer": "Hanoi"}
 ```
 
-## Video demo
+## 7. Video demo
+Mọi người có thể bấm vào link sau để xem video demo: [*Video demo*](https://youtu.be/88huFcfQg3M) 
