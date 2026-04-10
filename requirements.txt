@@ -1,7 +1,8 @@
 fastapi
 uvicorn
-transformers
+transformers<5.0.0
 torch
 omegaconf
 requests
 pydantic
+python-dotenv
