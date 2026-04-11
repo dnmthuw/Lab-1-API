@@ -6,3 +6,5 @@ omegaconf
 requests
 pydantic
 python-dotenv
+pytest
+httpx
